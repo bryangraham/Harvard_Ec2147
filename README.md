@@ -1,1 +1,1 @@
-Course materials for Ec2147. A graduate econometrics class offered during the Spring 2021 semester at Harvard University. Materials are offered "as is''; please feel free to notify me about any mistakes you may find. 
+Course materials for Ec2147. A graduate econometrics class offered during the Spring 2021 semester at Harvard University. Materials are offered "as is'' and without warranty. While I am unable to reliably answer questions about these materials, I would welcome notification about any mistakes users may find. 
