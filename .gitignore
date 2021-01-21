@@ -1,36 +1,29 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2513
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+# Compiled python modules.
+*.pyc
 
-\f0\fs24 \cf0 # Compiled python modules.\
-*.pyc\
-\
-# Materials to Exclude (for now)\
-/NotForRepo/\
-\
-# Ignore Jupyter/IPython Notebook Checkpoints\
-**/.ipynb_checkpoints/\
-\
-# Ignore graphics files created by Notebooks/Programs in Repo\
-*.png\
-\
-# OS Files\
-.DS_Store\
-.DS_Store?\
-._*\
-\
-# Source Lyx/Tex/BibTex files\
-*.tex\
-*.lyx\
-*lyx-format*.lyx\
-*.*#\
-*.bib\
-*.*~\
-\
-# Source spreadsheet files\
-*.ods\
-*.xls\
-*.xlsx}
+# Materials to Exclude (for now)
+/NotForRepo/
+
+# Ignore Jupyter/IPython Notebook Checkpoints
+**/.ipynb_checkpoints/
+
+# Ignore graphics files created by Notebooks/Programs in Repo
+*.png
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+
+# Source Lyx/Tex/BibTex files
+*.tex
+*.lyx
+*lyx-format*.lyx
+*.*#
+*.bib
+*.*~
+
+# Source spreadsheet files
+*.ods
+*.xls
+*.xlsx
